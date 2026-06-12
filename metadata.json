@@ -1,0 +1,6 @@
+{
+  "name": "إشعار تعليق الخدمة",
+  "description": "صفحة تعليق الخدمة مؤقتاً لحين استكمال الالتزامات المالية المتفق عليها بتصميم أسود ذهبي فاخر واحترافي ومتجاوب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
